@@ -1,5 +1,9 @@
 # Employees of the FSB of Russia involved in the criminal activities of the aggressor country in Europe
 
+Original Source: https://gur.gov.ua/content/sotrudnyky-fsb-rossyy-uchastvuiushchye-v-prestupnoi-deiatelnosty-stranyahressora-na-terrytoryy-evropy.html
+
+## Translated List
+
 1. ABADZHI MIKHAIL VALERIEVICH, 22.03.1977, 3802688956, 01.10.2002, MOSCOW, B.LUBYANKA d.2 HF, Federal Security Service (FSB), Russia, +79773401033, E54FD81C33BF8586B151B2ABD2345EBE, TV(1), 2395;
 2. ABGARYAN ARMAN KHACHATUROVICH, 12.06.1981, 101000 Moscow, B. Lubyanka str., 2, Federal Security Service (FSB) of the Russian Federation, A3B52E412CB1B1E0FC3D3B859B191073, 2525;
 3. ABRAMOV ROMAN VIKTOROVICH, 05.12.1986, 9006759816, 107031, Moscow, Bolshaya Lubyanka str., 1/3, Federal Security Service (FSB), Russia, 2077754864E9763D0FD62006489D09FC, AA(8), AB(3), 44, +;
